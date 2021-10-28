@@ -4,6 +4,7 @@ async function loadData() {
     return data; 
   }
 
+  
   const init = async() => {
     const data = await loadData();
     const photographers = data.photographers;
