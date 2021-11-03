@@ -87,24 +87,3 @@ ul li:hover {
     color: #fff;
 }
 
-.photographer__profil__name{
-
-    background: #5b1303;
-    border-radius: .3rem;
-    color: #000;
-    flex-wrap: nowrap;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    left: 0;
-    margin: 0 auto;
-    padding: 5px;
-    position: fixed;
-    right: 0;
-    text-align: center;
-    text-decoration: none;
-    top: 2%;
-    width: 182px;
-    z-index: 1;
-
-}
